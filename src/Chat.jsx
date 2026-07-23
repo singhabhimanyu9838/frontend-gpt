@@ -11,7 +11,7 @@ function Chat() {
 
     useEffect(() => {
         if(reply === null) {
-            setLatestReply(null); //prevchat load
+            setLatestReply(null); //pre vchat load
             return;
         }
 
